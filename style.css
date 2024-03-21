@@ -1,0 +1,26 @@
+body{
+    min-height:3000px;
+}
+.jumbotron{
+    padding-top: 6rem ;
+    background-color:#92d1b2;
+}
+#projects{
+    background-color:#92d1b2;
+}
+section{
+    padding-top: 4rem;
+}
+.album-img{
+    width: 100%;
+}
+#album .row >*{
+    padding: 0;
+}
+.bi-instagram{
+    color: black;
+}
+.bi-tiktok{
+    color:black;
+    margin-left:30px;;
+}
